@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "node-telegram-bot-api": "^0.61.0",
+        "nodemon": "^1.14.9"
+    },
+    "name": "bpla-bot",
+    "version": "1.0.0",
+    "description": "telegram bot for navigation in channel",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "author": "Magomed-R",
+    "license": "ISC"
+}
